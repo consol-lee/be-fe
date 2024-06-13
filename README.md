@@ -1,5 +1,4 @@
 ## be_fe
-> Creator: hansol.2@navercorp.com
 > Date: 2024/6/13
 
 ## Description
